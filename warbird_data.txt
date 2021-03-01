@@ -1,0 +1,30 @@
+Fighter			Reconnaissance 		    Bomber				Jet		    Transport
+P-51 Mustang		SR-71 Blackbird		    P-51 Mustang			F-86 Sabre	C-47 Skytrain
+MQ-1 Predator Drone	U-2 Dragon Lady		    B-29 Superfortress			Me 262		UH-1 Huey
+F-4 Phantom II		Hawker Harrier		    B-17 Flying Fortress				He 111
+Me-109						    F-4 Phantom II		
+F4U Corsair					    B-52 Stratofortress		
+Albatros D.III					    B-2 Spirit		
+A6M Zero					    Junkers Ju-88		
+Spitfire					    de Havilland Mosquito		
+F-15 Eagle					    Handley-Page Bomber Type O		
+Me 262						    Consolidated B-24 Liberator		
+P-38 Lightning					    Junkers Ju-87		
+IL-2						    B-25 Mitchell		
+Fokker Triplane					    Avro Lancaster		
+S.E.5						    B-26 Marauder		
+Junkers Ju 88					    Breuguet 14		
+MiG-21						    Tupolev SB Bomber		
+Yak-9						    He 111		
+P-47 Thunderbolt				    SB2C Helldiver		
+Sukhoi Su-27					    Bristol Blenheim		
+Focke-Wulf 190				
+F/A-18 Super Hornet				
+SPAD S.XIII				
+Hawker Hurricane				
+Hawker Harrier				
+Nieuport 11				
+Sopwith Camel				
+F6F Hellcat				
+P-40 Warhawk				
+P-39 Airacobra				
